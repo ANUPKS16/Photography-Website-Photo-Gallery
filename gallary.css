@@ -1,0 +1,80 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Roboto','sans-sarif';
+   
+}
+body{
+     background: rgb(255,186,160);
+     background: linear-gradient(22deg, rgba(255,186,160,0.9307073171065301) 6%, rgba(238,239,168,1) 39%, rgba(237,152,172,1) 78%, rgba(123,236,181,0.8158613787311799) 91%);
+}
+
+.jigar{
+    text-align: center;
+    color: #777;
+    background-image: linear-gradient(lightpink,lightyellow,lightblue);
+}
+.bgmi{
+
+    margin-left: 100px;
+    width: 500px;
+    
+}
+.pubg{
+    width: 625px;
+}
+
+.anup{
+    text-align: center;
+    color: white;
+    background-color: darkgreen;
+}
+.bgm{
+    width: 625px;
+    height: 590px;
+}
+.bg{
+    width: 625px;
+    height:890px ;
+}
+
+#ll_xyrus{
+    
+    color: black;
+    background-image: linear-gradient(orange,white,green);
+}
+.nature{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+.couple{
+    
+    width: 663px;
+    margin: auto;
+}
+.couple1{
+    width: 440px;
+    margin: auto;
+}
+#couplesize{
+    font-size: 30px;
+    color: black;
+}
+.animal{
+    width: 663px;
+    margin-top: 2%;
+}
+.animal3{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 80%;
+}
+.animal2{
+    width: 663px;
+    margin: auto;
+    
+}
